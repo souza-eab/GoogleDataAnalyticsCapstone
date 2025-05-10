@@ -1,14 +1,14 @@
 '''
-AQUI
+Autor: Edriano Souza
 '''
 
 # Google Data Analytics Capstone: Complete a Case Study
 
 * _0_ - ASK (Fazer as perguntas certas);
-* 1_0_ PREPARE (preparar os dados);
-* 1_1_PROCESS (processar)
-* 1_2_ANALYZE (analisar)
-* SHARE (criar apresentação)
-* ACT (compartilhar)
+* _1_0_ PREPARE (preparar os dados);
+* _1_1_ PROCESS (processar)
+* _1_2_ ANALYZE (analisar)
+* _2_0_ SHARE (criar apresentação)
+* _3_0_ ACT (compartilhar)
 
-* 
+## Others
