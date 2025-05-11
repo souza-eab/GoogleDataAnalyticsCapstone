@@ -2,7 +2,7 @@
 Autor: Edriano Souza
 '''js
 
-# Google Data Analytics Capstone: Complete a Case Study
+# Google Data Analytics Capstone: Complete a Case Study: Cyclistic trip data
 
 * _0_ - ASK (Fazer as perguntas certas);
 * _1_0_ PREPARE (Preparar os dados);
